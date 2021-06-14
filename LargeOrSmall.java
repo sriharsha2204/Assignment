@@ -7,22 +7,22 @@ public class LargeOrSmall{
 		{
 			if(x>z)
 			{
-				System.out.println(x+" is largest");
+				System.out.println("Largest of 3 numbers is" + x);
 			}
 			else
 			{
-				System.out.println(z+" is largest");
+				System.out.println("Largest of 3 numbers is" + z);
 			}
 		}
 		else
 		{
 			if(y>z)
 			{
-				System.out.println(y+" is largest");
+				System.out.println("Largest of 3 numbers is" + y);
 			}
 			else
 			{
-				System.out.println(z+" is largest");
+				System.out.println("Largest of 3 numbers is" + z");
 			}
 		}
 	}
@@ -33,22 +33,22 @@ public class LargeOrSmall{
 		{
 			if(x<z)
 			{
-				System.out.println(x+" is smallest");
+				System.out.println("Smallest of 3 numbers is" + x");
 			}
 			else
 			{
-				System.out.println(z+" is smallest");
+				System.out.println("Smallest of 3 numbers is" + z);
 			}
 		}
 		else
 		{
 			if(y<z)
 			{
-				System.out.println(y+" is smallest");
+				System.out.println("Smallest of 3 numbers is" + y);
 			}
 			else
 			{
-				System.out.println(z+" is smallest");
+				System.out.println("Smallest of 3 numbers is" + z);
 			}
 		}
 	}	
